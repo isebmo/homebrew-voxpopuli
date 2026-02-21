@@ -2,7 +2,7 @@ cask "voxpopuli" do
   version "1.0.0"
   sha256 "REMPLACER"
 
-  url "https://dl.tfada.fr/voxpopuli/VoxPopuli-#{version}.dmg"
+  url "https://dl.tfada.fr/voxpopuli/homebrew/VoxPopuli-#{version}.dmg"
   name "VoxPopuli"
   desc "Native macOS real-time voice transcription using Apple Neural Engine"
   homepage "https://tfada.fr"
