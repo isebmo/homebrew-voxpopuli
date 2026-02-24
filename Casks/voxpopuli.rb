@@ -1,6 +1,6 @@
 cask "voxpopuli" do
-  version "1.1.2"
-  sha256 "6a0c1946107405000805018fb193103a97847f275a3308a5dccb7b03ef2ababf"
+  version "1.2.0"
+  sha256 "d087c1720ce0248696d8d31962c9f00cba9c2301c189b00ced3159a4cd871442"
 
   url "https://dl.tfada.fr/voxpopuli/homebrew/VoxPopuli-#{version}.dmg"
   name "VoxPopuli"
