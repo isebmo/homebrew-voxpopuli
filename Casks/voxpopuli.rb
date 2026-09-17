@@ -7,7 +7,7 @@ cask "voxpopuli" do
   desc "Native macOS real-time voice transcription using Apple Neural Engine"
   homepage "https://tfada.fr"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: ">= :tahoe"
 
   app "VoxPopuli.app"
 
